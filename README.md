@@ -1,14 +1,16 @@
-# 🏎️ Developing Data Products Course Project: MTCars Analytics Dashboard & Pitch
-### An Interactive Regression Analysis Tool & Data Pitch
-This repository is for the course project of developing data products course offered by Johns Hopkins University Data Science Coursera. 
+# 🏎️ Data Product Development: Interactive Analytics & Regression Suite
+### A high-performance dashboard for predictive modeling and automated data insights
+
 [![Shinyapps.io](https://img.shields.io)](https://hayelom.shinyapps.io/shiny_pitch_project_submitted/)
-[![RPubs](https://img.shields.io)](PASTE_YOUR_RPUBS_URL_HERE)
+[![RPubs](https://img.shields.io)](https://rpubs.com/hayet/dashboard-shiny-pitch)
 [![License: MIT](https://img.shields.io)](https://opensource.org)
+
+This repository contains the final project for the **Developing Data Products** course, part of the [Johns Hopkins University Data Science Specialization](https://www.coursera.org) on [Coursera](https://www.coursera.org).
 
 ## 🌐 Project Links
 - **Interactive Dashboard**: [Launch Live App on Shinyapps.io](https://hayelom.shinyapps.io/shiny_pitch_project_submitted/)
-- **Project Pitch Presentation**: [View 5-Slide Pitch on RPubs](PASTE_YOUR_RPUBS_URL_HERE)
-- **GitHub Repository**: [Source Code & Documentation](https://github.com)
+- **Project Pitch Presentation**: [View 5-Slide Pitch on RPubs](https://rpubs.com/hayet/dashboard-shiny-pitch)
+- **GitHub Repository**: [Source Code & Documentation](https://github.com/Hayethdt/Developing-Data-Products-Project.git)
 
 ---
 
@@ -49,4 +51,4 @@ The project includes a 5-slide pitch deck (pushed to RPubs/GitHub) covering:
 
 **Developed by:** Hayelom Tesfay  
 **Date:** February 28, 2026  
-*Data Source: 1974 Motor Trend US magazine.*
+*Data Source: Motor Trend US magazine.*
